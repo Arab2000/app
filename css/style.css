@@ -1,0 +1,34 @@
+.app1 h2{
+    font-weight: 600;
+    color: aliceblue;
+    font-size: 57px;
+font-family: cursive;
+}
+.app1 button{
+    font-family: cursive;
+}
+.convert{
+    border: aliceblue;
+    border-radius: 12px;
+    border-width: 12px;
+    border-style: double;
+}
+.convert form{
+    font-weight: 700;
+    font-family: cursive;
+    font-size: 25px;
+}
+.convert input{
+    font-size: 25px;
+    font-weight: 800;
+}
+.convert h2{
+    font-size: 25px;
+    font-weight: 800;
+}
+.bb{
+    font-weight: 600;
+    font-size: 18px;
+    word-spacing: 5px;
+    letter-spacing: 2px;
+}
